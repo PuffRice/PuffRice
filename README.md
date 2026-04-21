@@ -1,4 +1,4 @@
-#👋 I'm [Md. Rashid Uz Zaman]
+#  👋 I'm Md. Rashid Uz Zaman
 
 <p align="center">
   <img src="https://img.shields.io/badge/Co%20Founder%20%26%20COO-Zenetic%20Esports-75b943?style=for-the-badge" />
